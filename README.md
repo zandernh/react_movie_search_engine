@@ -3,13 +3,13 @@
 A clean and responsive movie discovery app built with React, allowing users to search films, browse trending titles, and save favorites using global state management.
 This project demonstrates frontend engineering, API integration, and user-centric UI design following modern React best practices.
 
-🌐 Live Demo
+[🌐 Live Demo](reactmoviesearchengine.netlify.app)
 
 ---
 
 ## 📸 Screenshot
 
-Screenshot will be added once deployed and captured.
+![Move Search Engine Screenshot](Screenshot.JPG)
 
 --- 
 
