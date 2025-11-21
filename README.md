@@ -47,9 +47,9 @@ To run this app locally:
 
 ### 1. Clone the repository
 
-git clone https://github.com/zandernh/react-movie-search-engine.git
+git clone git@github.com:zandernh/react_movie_search_engine.git
 
-cd react-movie-search-engine
+cd react_movie_search_engine
 
 ### 2. Install dependencies
 
